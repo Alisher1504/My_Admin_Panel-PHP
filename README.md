@@ -12,18 +12,8 @@ The packages I need to install in my project are "npx create-react-app ." and "n
 
 ## Usage
 For this project to work, you need to register using the link, after that you can create a new folder and create a file in it.
-```
-    https://github.com/Alisher1504/my_dropbox..git
-```
-```
-    https://master.dwh6syuzhix09.amplifyapp.com/signin
-```
-```
+
 ./my_project argument1 argument2
-```
+
 
 ### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
-<span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
