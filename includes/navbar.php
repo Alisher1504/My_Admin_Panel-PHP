@@ -19,7 +19,12 @@
                   <?= $_SESSION['auth_user']['user_fname'] . " " . $_SESSION['auth_user']['user_lname'] ?>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="my-profil.php">My Profile</a></li>
+                  <li>
+                    <a class="dropdown-item" href="my-profil.php">My Profile</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="glavni.php">Glavni</a>
+                  </li>
                   <li>
                       <form action="" method="POST">
                         <button type="submit" name="logout_btn" class="dropdown-item">Logout</button>
